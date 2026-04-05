@@ -1,0 +1,5 @@
+{
+  "Version": "1.0.1.0",
+  "Url": "https://seulink-de-download-aqui.com/instalador.exe",
+  "Notes": "- Adicionado suporte a múltiplos canais.\n- Correção de bugs na reprodução local.\n- Melhoria na interface visual."
+}
